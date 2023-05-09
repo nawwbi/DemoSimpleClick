@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="button">Display</string>
+    <string name="text">Enter something</string>
+    <string name="textView">Display what the user enters</string>
+    <string name="ToggleButton"></string>
+    <string name="disabled">disabled</string>
+    <string name="enabled">enabled</string>
+    <string name="radioButtonMale">Male</string>
+    <string name="radioButtonFemale">Female</string>
+</resources>
